@@ -1,8 +1,17 @@
 # Eshop-sales-analysis
-a self-generated data analysis on sales growth for a short period.
+A self-generated data analysis on sales growth for a short period.
 
+## Table of contents
+- [Project overview](project_overview)
+- [Data sources](data_sources)
+- [Data tools](data_tools)
+- [Exploratory Data Analysis](exploratory_data_analysis)
+- [Data analysis](data_analysis)
+- [Results/Findings](results/findings)
+- [Recommendation](recommendation)
+  
 ### Project Overview
-This project shows the sales growth in an e-shop from 2023 to January 2024.
+This project shows the sales growth in an e-shop in a short period from 2023 to January 2024.
 
 ### Data sources
 The data used in this project is generated from Google Chrome and populated by me.
