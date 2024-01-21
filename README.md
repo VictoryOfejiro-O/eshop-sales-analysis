@@ -2,13 +2,13 @@
 A self-generated data analysis on sales growth for a short period.
 
 ## Table of contents
-- [Project overview](project_overview)
-- [Data sources](data_sources)
-- [Data tools](data_tools)
-- [Exploratory Data Analysis](exploratory_data_analysis)
-- [Data analysis](data_analysis)
-- [Results/Findings](results/findings)
-- [Recommendation](recommendation)
+- [Project overview](#project-overview)
+- [Data sources](#data-sources)
+- [Data tools](#data-tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendation](#recommendation)
   
 ### Project Overview
 This project shows the sales growth in an e-shop in a short period from 2023 to January 2024.
@@ -66,7 +66,7 @@ SELECT COUNT(order_id) FROM orders;
 SELECT COUNT(product_type) FROM employees
 WHERE product_type = 'music record';
 ```
-### Results/Findings
+### Findings
 - There are 10 orders, 80% of which are movies and music record products, from customers mostly in the United States and Nigeria, respectively, as shown in the data visualization. 
 - Sweden has the lowest order record; this could be due to limited products that suit customers from that country.
 - Most of the product languages available online are English, hence the highest sales/orders recorded are from customers in English-speaking countries. 
