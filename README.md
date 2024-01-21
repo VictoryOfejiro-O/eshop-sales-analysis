@@ -76,6 +76,8 @@ WHERE product_type = 'music record';
 ### Recommendation
 Even with the limited data and products available on Eshop, the sales are a bit high within the short period provided. I would suggest more products be made available, both in English and other languages to boost sales in other non-English speaking countries too.
 
+💻👧🥰
+
 
 
 
