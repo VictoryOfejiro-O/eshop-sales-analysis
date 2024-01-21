@@ -1,0 +1,11 @@
+order_id,customer_id,unit_price,quantity,total_price,payment_method,product_type,product_title,order_date
+1,8,101,2,202,"credit card","music record",needle,2024-12-05
+2,5,29,3,87,"wire transfer","music record","Quando Nevica",2023-12-15
+3,1,46,4,184,paypal,movie,"a tribe called judah",2023-12-15
+4,2,51,4,204,"credit card",movie,"the ballad of songbirds and snakes",2024-01-10
+5,4,25,1,25,"credit card",book,"midsummer romance",2024-01-07
+6,7,101,1,101,"wire transfer","music record",needle,2023-11-22
+7,3,20,3,60,"wire tranfer",book,"two dances and a duke",2023-12-10
+8,9,35,2,70,"credit card","music record","what was i made for",2023-11-24
+9,6,101,1,101,paypal,"music record",needle,2024-01-05
+10,10,37,2,74,paypal,movie,matilda,2023-03-14
