@@ -1,0 +1,11 @@
+order_id,product_id,first_name,last_name,product_type,department
+1,1,Chiemela,Ibekwe,"music record","human resources"
+2,7,Samantha,Phillips,"music record",accounting
+3,8,Solomon,Herbert,movie,deliveries
+4,6,Jade,Saunders,movie,"human resources"
+5,10,james,peters,book,deliveries
+6,1,richard,henry,"music record",deliveries
+7,2,Harry,Dyer,book,deliveries
+8,3,Ronald,Hutchinson,"music record",deliveries
+9,1,Aloisio,Bergamaschi,"music record",accounting
+10,9,Jacob,Rowley,movie,accounting
