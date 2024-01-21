@@ -1,0 +1,11 @@
+customer_id,order_id,first_name,last_name,phone_number,address,city,post_code,country,email
+1,10,linda,okoye,"+234 8135460987","12 bola street",ikeja,100001,nigeria,linda.okoye@yahoo.com
+2,7,debbie,rice,"+1 763-4787-513","833 Hillcrest Circle",hamel,55340,"united states",debbierice@dayrep.com
+3,9,Susie,Chambers,"+1 224-6757-645","4779 Burnside Avenue",logan,84321,"united states",susielchambers@gmail.com
+4,5,Herbert,Hendry,"+46 0480-4727052","Ånhult 6",rockneby,"380 31",sweden,HerbertKHendry@rhyta.com
+5,2,Honoré,Desruisseaux,"+39 0375-0954661","Via San Domenico Soriano 83",Malfa,98050,italy,HonoreDesruisseaux@teleworm.us
+6,6,success,obakpolor,"+234 7035145672","14 allen avenue",ikeja,100281,nigeria,obakpolors@gmail.com
+7,3,helen,owolabi,"+234 9142387923","3 Oba Aladejobi St. ",ikaja,100271,nigeria,owolabihenry@gmail.com
+8,4,"Josephine ",Brenner,"+1 229-435-0146","2759 Junkins Avenue",Albany,31701,"united states",josephinebrenner@gmail.com
+9,1,kendrick,richmond,"+1 245-145-3024","779 Burnside Avenue",logan,84321,"united states",richmond07@yahoo.com
+10,8,Camilla,Lorenzo,"+39 0356 4255947","Via Bologna 19",Giuncugnano,55030,italy,CamillaLorenzo@dayrep.com
