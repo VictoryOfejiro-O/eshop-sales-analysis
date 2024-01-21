@@ -13,6 +13,8 @@ A self-generated data analysis on sales growth for a short period.
 ### Project Overview
 This project shows the sales growth in an e-shop in a short period from 2023 to January 2024.
 
+![Eshop data visualization](https://github.com/VictoryOfejiro-O/eshop-sales-analysis/assets/152421383/c6b19b5d-90b6-425a-ba1f-4808dd9fcc7c)
+
 ### Data sources
 The data used in this project is generated from Google Chrome and populated by me.
 
