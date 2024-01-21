@@ -7,3 +7,5 @@ The data used in this project is generated from Google Chrome and populated by m
 ### Data tools
 - The draw.io website (ER diagram) [Download here](https://drive.google.com/file/d/1_A1TkGtFWzyUJVVAotHUlMkkG5OyDxtS/view?usp=sharing)
 - Mysql server (database creation and analysis)
+### Exploratory Data Analysis
+-
