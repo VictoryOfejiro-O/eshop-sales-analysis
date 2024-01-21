@@ -1,0 +1,11 @@
+product_id,product_title,description,genre,language,unit_price,release_date,product_type,in_stock
+1,needle,"nicki minaj pink friday","hip hop",english,101,2023-11-05,"music record",4
+2,"the exchange","john grisham ",fiction,english,28,2023-12-04,book,8
+3,"what was i made for","billie eilish","alternative indie",english,35,2023-11-06,"music record",7
+4,"check and mate","ali hazelwood match of the hearts",romance,english,16,2023-07-23,book,4
+5,"two dances and a duke","the seduction series by eloisa james",romance,english,20,2023-11-08,book,3
+6,"the ballad of songbirds and snakes","the hunger games series","action adventure",english,51,2023-11-06,movie,5
+7,"Quando Nevica",elisa,pop,italian,29,2023-10-14,"music record",6
+8,"a tribe called judah","a funke akindele movie for family",comedy,english,46,2023-12-15,movie,5
+9,matilda,"the musical by matthew warchus","musical fantasy",english,37,2022-12-02,movie,3
+10,"midsummer romance","katarina anderson swedish romance",romance,swedish,25,2022-11-25,book,4
